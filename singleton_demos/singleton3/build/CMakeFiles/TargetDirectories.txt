@@ -1,0 +1,3 @@
+/home/q/SingletonPattern/singleton_demos/singleton3/build/CMakeFiles/rebuild_cache.dir
+/home/q/SingletonPattern/singleton_demos/singleton3/build/CMakeFiles/edit_cache.dir
+/home/q/SingletonPattern/singleton_demos/singleton3/build/CMakeFiles/singleton_demo_3.dir

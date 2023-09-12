@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q/SingletonPattern/singleton_demos/singleton9/main.cpp
+sing1.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing1.h
+sing2.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing2.h
+
+/home/q/SingletonPattern/singleton_demos/singleton9/sing1.h
+iostream
+-
+sing_temp.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing_temp.h
+
+/home/q/SingletonPattern/singleton_demos/singleton9/sing2.h
+iostream
+-
+sing1.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing1.h
+sing_temp.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing_temp.h
+
+/home/q/SingletonPattern/singleton_demos/singleton9/sing_temp.h
+atomic
+-
+
+/home/q/SingletonPattern/singleton_demos/singleton9/src.cpp
+iostream
+-
+sing1.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing1.h
+sing2.h
+/home/q/SingletonPattern/singleton_demos/singleton9/sing2.h
+

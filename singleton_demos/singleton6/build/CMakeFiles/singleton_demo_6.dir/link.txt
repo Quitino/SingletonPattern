@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/singleton_demo_6.dir/main.cpp.o CMakeFiles/singleton_demo_6.dir/sing.cpp.o  -o singleton_demo_6 
